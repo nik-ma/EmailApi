@@ -1,0 +1,2 @@
+# EmailApi
+Globalshala Backend Task
